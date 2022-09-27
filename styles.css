@@ -11,20 +11,28 @@ body {
 	margin-top: 50px;
 }
 
+p {
+	color: #2a2e36;
+}
+
 h1 {
 	font-family: 'Ultra', serif;
 	color: #4287f5;
 	font-size: 3em;
 	text-align: center;
+	letter-spacing: 6px;
+	word-spacing: 10px;
 }
 
 
 h3 {
 	text-transform: uppercase;
+	color: #071633;
 }
 
 h4 {
 	font-weight: bolder;
+	color: #071633;
 }
 
 .h45justify {
@@ -33,6 +41,7 @@ h4 {
 
 ul {
   list-style-type: circle;
+  color: #2a2e36;
 }
 
 a:link {
@@ -45,7 +54,7 @@ a:visited {
 	color: #003996;
 	}
 
-a:hover, a:focus, a:active {
+a:hover, a:active {
 	text-decoration: none;
 	color: #0042ad;
 	}
